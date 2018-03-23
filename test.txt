@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 master
+=======
 fenzhi
+
+>>>>>>> new-分支
